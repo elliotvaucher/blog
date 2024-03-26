@@ -1,8 +1,8 @@
 site_name: Elliot's blog
 situe_url: https://elliotvaucher.github.io/blog/
 nav: 
-  - Home: index.md
-  - About: about.md
-  - Contact: contact.md
+  - Accueil: index.md
+  - Articles:
+    - Structure de ma pensée: structure_pensee.md
 theme:
   name: material

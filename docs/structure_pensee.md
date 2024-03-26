@@ -1,3 +1,11 @@
+---
+title: Structure penseé
+summary: Réflexion sur la structuration de ma pensée
+authors:
+    - Elliot Vaucher
+date: 2024-03-26
+---
+
 # Structure de ma pensée 
 
 <audio controls>

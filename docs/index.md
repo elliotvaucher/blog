@@ -1,18 +1,5 @@
 # Bienvenue sur mon blog personnel
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ce blog est une collection de pensées, réflexions, essais, sur des sujets divers et variés, masi la plupart du temps en lien avec la psychologie, les nouvelles technologies, l'informatique ou la philosophie. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        structure_pensee.md
-        ...       # Other markdown pages, images and other files.
+Je contribue à ce blog grâce à une expérimentation technologique. Tout commence par une note audio, enregistrée la plupart du temps pendant que je marche, ou que je cours. La note audio est ensuite envoyée à un bot Telegram, qui la transforme en texte. Le bot Telegram se charge également de l'envoyer sur GitHub, pour que l'article soit publié. 
