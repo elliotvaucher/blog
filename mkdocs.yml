@@ -1,8 +1,9 @@
 site_name: Elliot's blog
-situe_url: https://elliotvaucher.github.io/blog/
+site_url: https://elliotvaucher.github.io/blog/
 nav: 
   - Accueil: index.md
   - Articles:
     - Structure de ma pensée: structure_pensee.md
+    - 26 03 2024: 26.03.24.md
 theme:
   name: material

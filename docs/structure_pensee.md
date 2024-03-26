@@ -1,5 +1,5 @@
 ---
-title: Structure penseé
+title: Structure pensée
 summary: Réflexion sur la structuration de ma pensée
 authors:
     - Elliot Vaucher
@@ -9,7 +9,7 @@ date: 2024-03-26
 # Structure de ma pensée 
 
 <audio controls>
-  <source src="../audio/Avenue_de_la_Sallaz.mp4" type="audio/mp4">
+  <source src="../audio/structure_pensee.mp4" type="audio/mp4">
 Your browser does not support the audio element.
 </audio>
 
