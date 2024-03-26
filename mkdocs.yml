@@ -5,5 +5,7 @@ nav:
   - Articles:
     - Structure de ma pensée: structure_pensee.md
     - 26 03 2024: 26.03.24.md
+  - Auto-analyses:
+    - Vertiges soudains: vertiges.md
 theme:
   name: material
